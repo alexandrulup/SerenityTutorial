@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Tags test","Tis test will provide an error code of 400 when user tries to access an invalid resource","SUCCESS","2018-11-19T16:26:59.962+02:00[Europe/Athens]","0.0","3.21"
